@@ -42,7 +42,8 @@ The renewable energy market in Nigeria is growing significantly, driven by risin
 
 #### 1. Visuals:
 - **Line Chart**: Monthly sales trends.
-- 
+- <img width="446" alt="Monthly Sales Line Graph" src="https://github.com/user-attachments/assets/049c4ccb-b3cb-4923-a542-cd8bf2261d47">
+
 - **Scatter Plot**: Price vs. sales volume.
 
 #### 2. Correlational Analysis
