@@ -3,7 +3,7 @@
 ## Contributors
 - [Yakub Mustapha](#)
 - [Grace Adaramola](https://github.com/Gracie-Data)
-- [Faith Chuwang-Kwa](#)
+- [Faith Chuwang-Kwa](https://github.com/faithchuwang)
 
 
 
