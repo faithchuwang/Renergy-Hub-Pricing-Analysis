@@ -35,6 +35,9 @@ The renewable energy market in Nigeria is growing significantly, driven by risin
 - Competitive Pricing Data: Competitor benchmarks to evaluate competitiveness.
 
 ### Example Data Table
+<img width="794" alt="Screenshot 2024-11-18 at 15 08 55" src="https://github.com/user-attachments/assets/95561ec9-7bdc-4ead-940f-f92b9fcad7e3">
+
+
 
 ## Analysis
 
@@ -44,9 +47,12 @@ The renewable energy market in Nigeria is growing significantly, driven by risin
 - **Line Chart**: Monthly sales trends.
 - <img width="446" alt="Monthly Sales Line Graph" src="https://github.com/user-attachments/assets/049c4ccb-b3cb-4923-a542-cd8bf2261d47">
 
-- **Scatter Plot**: Price vs. sales volume.
+- **Bar Chart**: Price vs. sales volume.
+<img width="468" alt="Correlation (Price vs  Volume)" src="https://github.com/user-attachments/assets/4ae918e1-ef15-4259-8ad7-501557e7b180">
 
 #### 2. Correlational Analysis
+<img width="610" alt="EXAMPLE ANALYSIS TABLE" src="https://github.com/user-attachments/assets/07c49f29-d03c-436f-a78e-7e06098e600e">
+
 
 ### Seasonal Sales Trends
 
