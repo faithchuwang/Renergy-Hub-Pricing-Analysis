@@ -1,7 +1,9 @@
 # Renergy Hub Pricing Analysis
 
 ## Contributors
-
+- [Yakub Mustapha](#)
+- [Grace Adaramola](#)
+- [Faith Chuwang-Kwa](#)
 
 
 
