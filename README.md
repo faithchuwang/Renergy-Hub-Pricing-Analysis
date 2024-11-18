@@ -28,3 +28,23 @@ The renewable energy market in Nigeria is growing significantly, driven by risin
 - Assist sellers in identifying pricing strategies for renewable energy products.
 - Analyze demand patterns across regions and seasons.
 - Benchmark against competitors to ensure market relevance.
+
+## Data Collection
+- Historical Pricing Data: Observing price fluctuations over time for trends.
+- Sales Volume Data: Units sold across product categories to identify patterns.
+- Competitive Pricing Data: Competitor benchmarks to evaluate competitiveness.
+
+### Example Data Table
+
+## Analysis
+
+### Exploratory Data Analysis (EDA)
+
+#### 1. Visuals:
+- **Line Chart**: Monthly sales trends.
+- **Scatter Plot**: Price vs. sales volume.
+
+#### 2. Correlational Analysis
+
+### Seasonal Sales Trends
+
