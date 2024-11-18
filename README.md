@@ -1,7 +1,7 @@
 # Renewable Energy Product Pricing Optimization Analysis
 
 ## Contributors
-- [Yakub Mustapha](#)
+- [Yakub Mustapha](https://github.com/Emkoy)
 - [Grace Adaramola](https://github.com/Gracie-Data)
 - [Faith Chuwang-Kwa](https://github.com/faithchuwang)
 
