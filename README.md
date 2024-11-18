@@ -71,6 +71,11 @@ The renewable energy market in Nigeria is growing significantly, driven by risin
 - Lagos and Abuja dominate sales across categories.
 
 ### Recommendations
+- **Solar Panels**: Implement seasonal promotions featuring discounts ranging from 5 to 10 percent during the peak months to stimulate additional sales.
+
+- **Batteries:** Preserve consistent pricing strategies while introducing strategic bundling options with solar panels or inverters to enhance sales volume.
+
+- **LED Bulbs**: Adopt a pricing strategy focused on low prices to optimize sales volume and secure a greater market share.
 
 ## Conclusion
 By aligning pricing strategies with demand patterns, seasonal trends, and competitive benchmarks, this analysis provides a roadmap for sellers to optimize their pricing and maximize profitability.
