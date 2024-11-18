@@ -55,6 +55,8 @@ The renewable energy market in Nigeria is growing significantly, driven by risin
 
 
 ### Seasonal Sales Trends
+<img width="774" alt="SEASONAL SALES" src="https://github.com/user-attachments/assets/e8b75f00-a80b-4fa9-a95d-1b6e58914e50">
+
 
 ## Insights and Recommendations
 
