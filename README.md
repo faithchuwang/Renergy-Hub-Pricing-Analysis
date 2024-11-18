@@ -1,4 +1,4 @@
-# Renergy Hub Pricing Analysis
+# Renewable Energy Product Pricing Optimization Analysis
 
 ## Contributors
 - [Yakub Mustapha](#)
