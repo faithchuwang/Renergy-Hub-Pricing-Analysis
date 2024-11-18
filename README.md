@@ -19,3 +19,12 @@ The objectives are to:
 The insights aim to guide strategic decision-making for marketing and distribution priorities for Renergy Hub.
 
 
+## Introduction
+
+### Market Background
+The renewable energy market in Nigeria is growing significantly, driven by rising demand for alternative power solutions and a shift toward sustainability.
+
+### Objectives
+- Assist sellers in identifying pricing strategies for renewable energy products.
+- Analyze demand patterns across regions and seasons.
+- Benchmark against competitors to ensure market relevance.
