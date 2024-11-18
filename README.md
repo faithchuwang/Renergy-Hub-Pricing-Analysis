@@ -1,4 +1,4 @@
-# Renergy-Hub-Pricing-Analysis
+# Renergy Hub Pricing Analysis
 
 ## Contributors
 
