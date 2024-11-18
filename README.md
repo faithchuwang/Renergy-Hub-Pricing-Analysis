@@ -50,3 +50,22 @@ The renewable energy market in Nigeria is growing significantly, driven by risin
 
 ### Seasonal Sales Trends
 
+## Insights and Recommendations
+
+### Key Insights
+
+1. **Demand Trends**:
+- Solar Panels: High demand during the dry season.
+- LED Bulbs: Consistent high demand year-round.
+
+2. **Pricing Sensitivity**:
+- LED Bulbs show high price sensitivity; competitive pricing is crucial.
+
+3.**Geographic Hotspots**:
+- Lagos and Abuja dominate sales across categories.
+
+### Recommendations
+
+## Conclusion
+By aligning pricing strategies with demand patterns, seasonal trends, and competitive benchmarks, this analysis provides a roadmap for sellers to optimize their pricing and maximize profitability.
+
